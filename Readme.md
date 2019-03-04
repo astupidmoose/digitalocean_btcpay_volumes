@@ -1,3 +1,6 @@
+For info on Node Sizes: 
+https://bitinfocharts.com/
+
 # Create Folder for BTCPay 
 ```
 mkdir BTCPayServer
